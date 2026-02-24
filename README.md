@@ -1,7 +1,6 @@
-## 📊 Applications in Computational Methods in Physics  
-### (Probability and Statistics)
+## 📊 Computational Methods in Physics  
 
-This repository contains coursework and programming assignments from the **Applications in Computational Methods in Physics – Probability and Statistics** class at Istanbul Technical University.
+This repository contains coursework and programming assignments from the **Computational Methods in Physics** class at Istanbul Technical University.
 
 The course focuses on numerical methods, statistical modeling, Monte Carlo simulations, interpolation, curve fitting, and data analysis using MATLAB.
 
